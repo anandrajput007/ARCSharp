@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneConversation", "..\Projects\TimeZoneConversation\TimeZoneConversation.csproj", "{52A805C7-F2BC-41CB-9702-A56FCF709AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A805C7-F2BC-41CB-9702-A56FCF709AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A805C7-F2BC-41CB-9702-A56FCF709AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A805C7-F2BC-41CB-9702-A56FCF709AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A805C7-F2BC-41CB-9702-A56FCF709AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B59D25-A875-46AA-A838-DAACA68F4678}
+	EndGlobalSection
+EndGlobal
