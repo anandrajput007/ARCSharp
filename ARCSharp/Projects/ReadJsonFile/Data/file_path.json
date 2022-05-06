@@ -1,0 +1,22 @@
+[
+  {
+    "source": "E:\\Project\\",
+    "destination": "E:\\NewProject\\",
+    "fileName": "App.config"
+  },
+  {
+    "source": "E:\\Project\\",
+    "destination": "E:\\NewProject\\",
+    "fileName": "Dev.config"
+  },
+  {
+    "source": "E:\\Project\\",
+    "destination": "E:\\NewProject\\",
+    "fileName": "Uat.config"
+  },
+  {
+    "source": "E:\\Project\\",
+    "destination": "E:\\NewProject\\",
+    "fileName": "Prod.config"
+  }
+]
